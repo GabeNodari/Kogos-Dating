@@ -11,7 +11,7 @@ Este é um loop simples, feito com fins de estudo na linguagem C.
 
 * Geração de número aleatório. <br>
 * Laço do-while e if para verificação condicional. <br>
-* Contagem de loops até alcançar a condicção. <br>
+* Contagem de loops até alcançar a condicção.
 
 **Tecnologias:**
 
