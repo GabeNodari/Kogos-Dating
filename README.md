@@ -4,7 +4,6 @@ Este é um loop simples, feito com fins de estudo na linguagem C.
 
 **Considerações:**
 
-* O cenário foi baseado em um vídeo viral de Paulo Kogos. <br>
 * Os nomes usandos para as varáveis tem teor humorísticos, exigindo mudanças para fins práticos.
 
 **Funcionalidades:**
