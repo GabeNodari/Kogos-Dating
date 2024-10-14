@@ -1,10 +1,10 @@
-# Projeto de loop
+# Simulador de encontros
 
-Este é um loop simples, feito com fins de estudo na linguagem C.
+Este é um loop simples, simulando interações entre dois persongens até que a condição seja alcançada. Essa simulação foi baseada em um vídeo viral de Paulo Kogos e possui fins de entretenimento, o qual não busca desrespeitar ou ofender nenhuma frente. Tal projeto foi feito com fins de estudo na linguagem C.
 
 **Considerações:**
 
-* Os nomes usandos para as varáveis tem teor humorísticos, exigindo mudanças para fins práticos.
+* Os nomes usandos para as varáveis têm teor humorísticos, exigindo mudanças para fins práticos.
 
 **Funcionalidades:**
 
